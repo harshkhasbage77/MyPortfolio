@@ -1,0 +1,18 @@
+#achievements_heading{
+    background-color: #cbcb8f;
+    margin: 20px 5px;
+    padding: 0.1% 10% 0.1% 1%;  
+    /*border-style: dashed;*/
+    border-radius: 10px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Luckiest Guy', cursive;
+    font-variant:small-caps ; 
+    letter-spacing: 5px;
+}
+
+#hk77_logo{
+    position: inherit;
+    width: 70px;
+    border-radius: 10px;
+}
